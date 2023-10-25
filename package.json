@@ -1,0 +1,19 @@
+{
+  "name": "bestshopsassrwd",
+  "version": "1.0.0",
+  "description": "Strona wykonana w ramach ćwiczeń w html, css, sass i rwd.\r Stworzona na podstawie projektu graficznego Adobe XD:",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "source": "index.html",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-css": "^2.6.0",
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0"
+  }
+}
